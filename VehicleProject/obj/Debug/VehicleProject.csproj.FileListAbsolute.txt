@@ -1,0 +1,12 @@
+c:\users\owner\source\repos\VehicleProject\VehicleProject\bin\Debug\Database1.mdf
+c:\users\owner\source\repos\VehicleProject\VehicleProject\bin\Debug\Database1_log.ldf
+c:\users\owner\source\repos\VehicleProject\VehicleProject\bin\Debug\VehicleProject.exe.config
+c:\users\owner\source\repos\VehicleProject\VehicleProject\bin\Debug\VehicleProject.exe
+c:\users\owner\source\repos\VehicleProject\VehicleProject\bin\Debug\VehicleProject.pdb
+c:\users\owner\source\repos\VehicleProject\VehicleProject\obj\Debug\VehicleProject.csprojResolveAssemblyReference.cache
+c:\users\owner\source\repos\VehicleProject\VehicleProject\obj\Debug\VehicleProject.Properties.Resources.resources
+c:\users\owner\source\repos\VehicleProject\VehicleProject\obj\Debug\VehicleProject.csproj.GenerateResource.Cache
+c:\users\owner\source\repos\VehicleProject\VehicleProject\obj\Debug\VehicleProject.csproj.CoreCompileInputs.cache
+c:\users\owner\source\repos\VehicleProject\VehicleProject\obj\Debug\VehicleProject.exe
+c:\users\owner\source\repos\VehicleProject\VehicleProject\obj\Debug\VehicleProject.pdb
+c:\users\owner\source\repos\VehicleProject\VehicleProject\obj\Debug\VehicleProject.Form1.resources
